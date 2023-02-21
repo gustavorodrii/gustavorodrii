@@ -10,4 +10,7 @@
 
 
 
-          
+
+
+## Tecnologias 💻
+- HTML, CSS, Javascript
