@@ -18,3 +18,4 @@
 <hr>
 
 <a href="https://www.linkedin.com/in/gustavorodrii/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="wa.me/5513991707997"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" </a>
