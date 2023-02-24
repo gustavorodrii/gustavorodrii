@@ -1,7 +1,7 @@
 <div>
   
   <h1 align="center">
-    Oi Tudo bem? Eu sou o 
+    Ola, tudo bem ? Eu sou o 
     <a href="https://www.linkedin.com/in/gustavorodrii/">Gustavo Rodrigues 😃️</a>
   </h1>
   
@@ -34,6 +34,6 @@
 
 <div align="center">
 
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/gustavorodrii/gustavorodrii/blob/output/github-contribution-grid-snake.svg)
   
 </div>
