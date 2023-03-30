@@ -1,12 +1,12 @@
 <div>
   
   <h1 align="center">
-    Ola, tudo bem ? Eu sou o 
+    Hello, everyting is fine ? My name is 
     <a href="https://www.linkedin.com/in/gustavorodrii/">Gustavo Rodrigues 😃️</a>
   </h1>
   
   <p align="center">
-    Sou estudante de Analise e Desenvolvimento de Sistemas e aqui estao alguns de meus projetos pessoais.  
+    I'm a Systems Analysis and Development student and here are some of my personal projects. 
   </p>
   
   
