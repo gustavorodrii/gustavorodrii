@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    I'm a Systems Analysis and Development student and here are some of my personal projects. 
+    I'm a Systems Analysis and Development student and here are some of my own projects. 
   </p>
   
   
