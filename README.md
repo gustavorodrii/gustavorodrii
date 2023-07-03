@@ -4,6 +4,12 @@
     Hello, everyting is fine ? My name is 
     <a href="https://www.linkedin.com/in/gustavorodrii/">Gustavo Rodrigues 😃️</a>
   </h1>
+
+  <br>
+
+  <p align="center>
+    I have solid experience with Flutter and I'm currently studying React Native
+  </p>
   
   <p align="center">
     I'm a mobile developer and here are some of my own projects. 
