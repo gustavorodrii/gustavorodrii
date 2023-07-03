@@ -7,7 +7,7 @@
 
   <br>
 
-  <p align="center>
+  <p align="center">
     I have solid experience with Flutter and I'm currently studying React Native
   </p>
   
