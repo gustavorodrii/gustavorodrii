@@ -38,6 +38,6 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gustavorodrii/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://play.google.com/store/apps/developer?id=Gustavo+Matos" target="_blank"><img height= "150em" src="https://img.icons8.com/stickers/100/playstore.png" alt="playstore"_blank"></a>
+  <a href="https://play.google.com/store/apps/developer?id=Gustavo+Matos" target="_blank"><img height= "50em" src="https://img.icons8.com/stickers/100/playstore.png" alt="playstore"_blank"></a>
 </div>
   
