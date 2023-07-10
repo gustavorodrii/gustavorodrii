@@ -1,22 +1,8 @@
-<div>
-  
-  <h1 align="center">
-    Hello, everyting is fine ? My name is 
-    <a href="https://www.linkedin.com/in/gustavorodrii/">Gustavo Rodrigues 😃️</a>
-  </h1>
-
-  <br>
-
-  <p align="center">
-    I have solid experience with Flutter and I'm currently studying React Native
-  </p>
-  
-  <p align="center">
-    I'm a mobile developer and here are some of my own projects. 
-  </p>
-  
-  
-</div>
+- 👋 Hi, I’m Gustavo Rodriguees
+- 👀 I’m interested in Mobile Development and I have solid experience in flutter
+- 🌱 I'm currently learning React Native
+- 💞️ I’m looking to collaborate on mobile applications
+- 📫 To reach me please contact gugarodri@hotmail.com
 
 <div align="center">
   <a href="https://github.com/gustavorodrii">
