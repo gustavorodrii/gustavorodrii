@@ -7,6 +7,7 @@
 <div align="center">
   <a href="https://github.com/gustavorodrii">
     <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gustavorodrii&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gustavorodrii&theme=radical&hide_border=false&&layout=compact"/>
     
   </a>
 </div>
