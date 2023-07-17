@@ -14,10 +14,10 @@
 </div>
 
 <div align="center" valign="top"><br>
-  ## 🌐 Socials:
+  ## 🌐 Socials:<br>
   <a href="https://www.linkedin.com/in/gustavorodrii/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://play.google.com/store/apps/developer?id=Gustavo+Matos" target="_blank"><img src="https://img.shields.io/badge/-PlayStore-%230077B5?style=for-the-badge&logo=PlayStore&logoColor=white" target="_blank"></a>
-  # 💻 Tech Stack:
+  # 💻 Tech Stack:<br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -30,6 +30,6 @@
 
 
 
----
+---<br>
 [![](https://visitcount.itsvg.in/api?id=gustavorodrii&icon=0&color=0)](https://visitcount.itsvg.in)
   
