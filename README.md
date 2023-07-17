@@ -5,13 +5,7 @@
 - 💞️ I’m looking to collaborate on mobile applications
 - 📫 To reach me please contact gugarodri@hotmail.com
 
-<div align="center">
-  <a href="https://github.com/gustavorodrii">
-    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gustavorodrii&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gustavorodrii&theme=radical&hide_border=false&&layout=compact"/>
-    
-  </a>
-</div>
+
 
 <div align="left" valign="top"><br>
   <hr>
@@ -27,8 +21,15 @@
   <img align="center" alt="flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  
 </div><br>
+
+<div align="left">
+  <a href="https://github.com/gustavorodrii">
+    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gustavorodrii&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gustavorodrii&theme=radical&hide_border=false&&layout=compact"/>
+    
+  </a>
+</div>
 
 
 
