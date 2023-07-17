@@ -29,7 +29,7 @@
     <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gustavorodrii&theme=radical&hide_border=false&&layout=compact"/>
     
   </a>
-</div>
+</div><br>
 
 
 
