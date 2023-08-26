@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 👋 Hi, I’m Gustavo Rodrigues
-- 👀 I’m interested in Mobile Development and I have solid experience in flutterr
+- 👀 I’m interested in Mobile Development and I have solid experience in flutter
 - 🌱 I'm currently learning React Native and Java
 - 💞️ I’m looking to collaborate on mobile applications
 - 📫 To reach me please contact gugarodri@hotmail.com
